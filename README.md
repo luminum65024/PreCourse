@@ -1,1 +1,1 @@
-# PreCourse
+Prueba para aprender a crear un repositorio y clonarlo desde GitHub a mi PC 
